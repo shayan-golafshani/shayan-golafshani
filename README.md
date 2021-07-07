@@ -8,7 +8,7 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
 
 * 🌞 &nbsp; Shayan Golafshani (he/him)
 * 🖇 &nbsp; [LinkedIn](https://www.linkedin.com/in/shayangolafshani/)
-*👨🏻‍💻💻 &nbsp; Front-End Engineering Certification (*anticipated completion:* **October 2021**)
+* 👨🏻‍💻 &nbsp; Front-End Engineering Certification (*anticipated completion:* **October 2021**)
 * 🎓 &nbsp; Bachelor of Arts in Program in the Environment 🌎 from University of Michigan, Ann Arbor 〽️
 * 🌱 I’m currently learning about... React!
 *🕺🏻 I’m looking to collaborate on... sustainability and green tech projects
