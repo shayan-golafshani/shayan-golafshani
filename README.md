@@ -1,6 +1,3 @@
-<img src="https://user-images.githubusercontent.com/70605985/124819903-0f1b4d00-df2a-11eb-8e1a-c214c9b14df3.jpg" width="100%">
-
-
 ## Hi there 👋
 
 ### My name is Shayan Golafshani, and I'm a developer and front-end software engineering student! 
