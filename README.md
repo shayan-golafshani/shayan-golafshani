@@ -1,4 +1,4 @@
-<img src="shayan.jpg" width="40%">
+<img src="shayan.jpg" width="25%">
 
 ## Hi there 👋
 
