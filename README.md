@@ -1,3 +1,4 @@
+<img src="header.jpg" width="100%">
 ## Hi there 👋
 
 ### My name is Shayan Golafshani, and I'm a developer and front-end software engineering student! 
