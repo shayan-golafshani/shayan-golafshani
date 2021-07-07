@@ -1,4 +1,4 @@
-<img src="header.jpg" width="80%" height="80%">
+<img src="header.jpg" height="80%">
 
 ## Hi there 👋
 
