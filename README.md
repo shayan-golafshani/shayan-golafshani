@@ -47,7 +47,7 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
 ## Stats
 
 <a href="https://github.com/shayan-golafshani/shayan-golafshani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-golafshani&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-golafshani&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/shayan-golafshani/shayan-golafshani">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan-golafshani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shayan's GitHub Stats" />
