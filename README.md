@@ -1,6 +1,6 @@
 <img src="shayan.jpg" width="25%">
 
-## Hi there 👋
+#### Hi there 👋
 
 ### My name is Shayan Golafshani, and I'm a developer and front-end software engineering student! 
 
