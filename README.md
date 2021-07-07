@@ -1,8 +1,8 @@
 <img src="shayan.jpg" width="25%">
 
-#### Hi there 👋
+#### Hi there, こんにちは, سلام 👋
 
-### My name is Shayan Golafshani, and I'm a developer and front-end software engineering student! 
+### My name is Shayan Golafshani, and I'm a developer and front-end software engineer! 
 
 I am pressently a Mod 2 Front End student at [Turing School of Software and Design](https://github.com/turingschool). 
 
