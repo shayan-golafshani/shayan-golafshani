@@ -4,7 +4,7 @@
 
 #### My name is Shayan Golafshani, and I'm a developer and front-end software engineer! 
 
-I am pressently a Mod 2 Front End student at [Turing School of Software and Design](https://github.com/turingschool). 
+I am pressently a Mod 3 Front End student at [Turing School of Software and Design](https://github.com/turingschool) learning the ins and outs of React and component design@. 
 
 * 🌞 &nbsp; Shayan Golafshani (he/him)
 * 🖇 &nbsp; [LinkedIn](https://www.linkedin.com/in/shayangolafshani/)
@@ -12,6 +12,10 @@ I am pressently a Mod 2 Front End student at [Turing School of Software and Desi
 * 🎓 &nbsp; Bachelor of Arts in Program in the Environment 🌎  from the University of Michigan, Ann Arbor 〽️
 * 🌱 I’m currently learning about... React!
 *🕺🏻 I’m looking to collaborate on... sustainability and green tech projects
+
+### About me
+
+I decided to switch learn to code and get into tech so that I can help contribute more to fighting against climate change. It's been a really interesting journey that I started with learning Java + Android Development in Sept. 2020, and now here I am learning React and Front-End Development mid 2021. 
 
  
  ## Technologies
