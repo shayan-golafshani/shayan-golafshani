@@ -2,20 +2,20 @@
 
 ### Hi there, こんにちは, سلام 👋
 
-#### My name is Shayan Golafshani, and I'm a developer and front-end software engineer! 
+#### Hi there, I'm Shayan Golafshani. I'm a software engineer apprentice! 
 
-I am pressently a Mod 3 Front End student at [Turing School of Software and Design](https://github.com/turingschool) learning the ins and outs of React and component design@. 
+I am presently a Hatch Apprentice at Twilio | Segment. I had an untradtitional route to tech through the [Turing School of Software and Design](https://github.com/turingschool) and started by learning the ins and outs of React and component design. Currently I'm using Terraform and Go on the job! 
 
 * 🌞 &nbsp; Shayan Golafshani (he/him)
 * 🖇 &nbsp; [LinkedIn](https://www.linkedin.com/in/shayangolafshani/)
 * 👨🏻‍💻 &nbsp; Front-End Engineering Certification (*anticipated completion:* **October 2021**)
 * 🎓 &nbsp; Bachelor of Arts in Program in the Environment 🌎  from the University of Michigan, Ann Arbor 〽️
-* 🌱 I’m currently learning about... React!
-*🕺🏻 I’m looking to collaborate on... sustainability and green tech projects
+* 🌱 I'm currently learning about... Terraform & Go!
+*🕺🏻 I'm looking to collaborate on...  open source sustainability and green tech projects.
 
 ### About me
 
-I decided to switch learn to code and get into tech so that I can help contribute more to fighting against climate change. It's been a really interesting journey that I started with learning Java + Android Development in Sept. 2020, and now here I am learning React and Front-End Development mid 2021. 
+I decided to switch learn to code and get into tech so that I can help contribute more to fighting against climate change, currently I'm honing my skills. It's been an interesting journey that I started with learning Java + Android Development in Sept. 2020, and progressed to learning React and Front-End Development mid 2021. Now I'm using Terraform & Go on the Job in early 2022.
 
  
  ## Technologies
