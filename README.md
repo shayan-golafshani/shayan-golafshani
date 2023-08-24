@@ -49,7 +49,7 @@ I decided to learn to code and get into tech so that I can help contribute more 
 </table>
 
 <!-- ## Recent/Proudest Contributions to Open Source -->
-
+<!--
 ## Stats
 
 <a href="https://github.com/shayan-golafshani/shayan-golafshani">
@@ -64,3 +64,4 @@ I decided to learn to code and get into tech so that I can help contribute more 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shayan-golafshani&color=1f5936" />
 </p>
+-->
