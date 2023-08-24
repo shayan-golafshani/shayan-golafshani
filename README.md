@@ -2,9 +2,9 @@
 
 ### Hi there, こんにちは, سلام 👋
 
-#### Hi there, I'm Shayan Golafshani. I'm a software engineer apprentice! 
+#### Hi there, I'm Shayan Golafshani. I'm a software engineer at Twilio! 
 
-I am presently a Hatch Apprentice at Twilio | Segment. I had an untradtitional route to tech through the [Turing School of Software and Design](https://github.com/turingschool) and started by learning the ins and outs of React and component design. Currently I'm using Terraform and Go on the job! 
+I started as a Hatch Apprentice at Twilio | Segment. I had an untradtitional route to tech through the [Turing School of Software and Design](https://github.com/turingschool) and started by learning the ins and outs of React and component design. Currently I'm using Terraform and Go on the job! 
 
 * 🌞 &nbsp; Shayan Golafshani (he/him)
 * 🖇 &nbsp; [LinkedIn](https://www.linkedin.com/in/shayangolafshani/)
@@ -15,7 +15,7 @@ I am presently a Hatch Apprentice at Twilio | Segment. I had an untradtitional r
 
 ### About me
 
-I decided to learn to code and get into tech so that I can help contribute more to fighting against climate change, currently I'm honing my skills. It's been an interesting journey that I started with learning Java + Android Development in Sept. 2020, and progressed to learning React and Front-End Development mid 2021. Now I'm using Terraform & Go on the Job in early 2022.
+I decided to learn to code and get into tech so that I can help contribute more to fighting against climate change, currently I'm honing my skills. It's been an interesting journey that I started with learning Java + Android Development in Sept. 2020, and progressed to learning React and Front-End Development mid 2021. Now I'm using Terraform & Go on the job in early 2022.
 
  
  ## Technologies
